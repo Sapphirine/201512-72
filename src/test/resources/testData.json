@@ -1,0 +1,146 @@
+[
+  {
+    "accountId": "C3P0",
+    "accountName": "Science Center",
+    "productId": "MSFT",
+    "product": "Microsoft Common Stock",
+    "quantity": 100,
+    "price": "$10",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "C3P0",
+    "accountName": "Science Center",
+    "productId": "BRK.B",
+    "product": "Berkshire Hathaway B",
+    "quantity": 170,
+    "price": "$20",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "C3P0",
+    "accountName": "Science Center",
+    "productId": "CVC",
+    "product": "Cablevision Systems Co A",
+    "quantity": 300,
+    "price": "$30",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "C3P0",
+    "accountName": "Science Center",
+    "productId": "KO",
+    "product": "Coca-Cola Co",
+    "quantity": 425,
+    "price": "$40",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "C3P0",
+    "accountName": "Science Center",
+    "productId": "GS",
+    "product": "Goldman Sachs Group Inc",
+    "quantity": 500,
+    "price": "$50",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "A1B2C3D4",
+    "accountName": "A1 Pension Fund",
+    "productId": "IBM",
+    "product": "IBM Common Stock",
+    "quantity": 100,
+    "price": "$60",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "A1B2C3D4",
+    "accountName": "A1 Pension Fund",
+    "productId": "MSFT",
+    "product": "Microsoft Common Stock",
+    "quantity": 100,
+    "price": "$60",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "A1B2C3D4",
+    "accountName": "A1 Pension Fund",
+    "productId": "BRK.B",
+    "product": "Berkshire Hathaway B",
+    "quantity": 100,
+    "price": "$60",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "A1B2C3D4",
+    "accountName": "A1 Pension Fund",
+    "productId": "CVC",
+    "product": "Cablevision Systems Co A",
+    "quantity": 100,
+    "price": "$60",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "A1B2C3D4",
+    "accountName": "A1 Pension Fund",
+    "productId": "KO",
+    "product": "Coca-Cola Co",
+    "quantity": 100,
+    "price": "$60",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "A11B22C33",
+    "accountName": "XYZ Personal Account",
+    "productId": "MSFT",
+    "product": "Microsoft Common Stock",
+    "quantity": 50,
+    "price": "$70",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "A11B22C33",
+    "accountName": "XYZ Personal Account",
+    "productId": "AA",
+    "product": "Alcoa Inc",
+    "quantity": 50,
+    "price": "$70",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "A11B22C33",
+    "accountName": "XYZ Personal Account",
+    "productId": "AMZN",
+    "product": "Amazon.com Inc",
+    "quantity": 50,
+    "price": "$70",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "A11B22C33",
+    "accountName": "XYZ Personal Account",
+    "productId": "V",
+    "product": "Visa Inc",
+    "quantity": 50,
+    "price": "$70",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "A11B22C33",
+    "accountName": "XYZ Personal Account",
+    "productId": "SBUX",
+    "product": "Starbucks Corp",
+    "quantity": 50,
+    "price": "$70",
+    "sentiment": "Positive"
+  },
+  {
+    "accountId": "A11B22C33",
+    "accountName": "XYZ Personal Account",
+    "productId": "QCOM",
+    "product": "QUALCOMM Inc",
+    "quantity": 50,
+    "price": "$70",
+    "sentiment": "Positive"
+  }
+]

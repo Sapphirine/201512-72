@@ -1,0 +1,29 @@
+.grid {
+  /*width: 800px;*/
+  height: 1920px;
+}
+.new-row {
+  opacity: 0;
+}
+
+.new-row-remove {
+  -webkit-transition: 1s linear all;
+  -moz-transition: 1s linear all;
+  -o-transition:1s linear all;
+  transition: 1s linear all;
+  opacity: 0;
+}
+
+.new-row-remove-active {
+  opacity: 1;
+}
+
+.cell-red {
+  color: red;
+}
+.cell-green {
+  color: green;
+}
+.cell-blue {
+  color: blue;
+}
